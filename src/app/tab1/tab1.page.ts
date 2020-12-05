@@ -1,7 +1,6 @@
 import { Component, NgModule, OnInit } from '@angular/core';
 import { DataService } from '../dataservices/data.service';
-import { album } from '../models/album';
-
+import { Files } from '../models/Files';
 @Component({
   selector: 'app-tab1',
   templateUrl: 'tab1.page.html',
@@ -9,7 +8,7 @@ import { album } from '../models/album';
 })
 export class Tab1Page implements OnInit {
 
-  files:File[] = [];
+  audioFiles:Files[] = [];
   dummies:any[] = [];
 
   constructor(private dataService: DataService) {}
@@ -20,7 +19,7 @@ export class Tab1Page implements OnInit {
       this.dummies = dummies;
     });
     this.dataService.files().subscribe(files=>{
-      this.files = files;
+      this.audioFiles = files;
     });
   }
 

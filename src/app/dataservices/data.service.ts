@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from  '@angular/common/http';
 import { album } from '../models/album';
+import { Files } from '../models/Files';
 
 @Injectable({
     providedIn:'root'
@@ -15,6 +16,6 @@ export class DataService{
     }
 
     files(){
-        return this.http.get<File[]>('/assets/files.json');
+        return this.http.get<Files[]>('/assets/files.json');
     }
 }

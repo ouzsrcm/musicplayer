@@ -1,4 +1,4 @@
-export class File{
+export interface Files {
     FileName:string;
     FileDescription:string;
     FilePath:string;

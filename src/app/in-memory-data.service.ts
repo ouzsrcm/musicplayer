@@ -1,7 +1,7 @@
 import { Inject, Injectable } from '@angular/core';
 import {InMemoryDbService} from 'angular-in-memory-web-api';
 
-import {File} from './models/File';
+import {Files} from './models/Files';
 import {FileTypes} from './models/FileTypes';
 
 @Injectable({
@@ -9,7 +9,7 @@ import {FileTypes} from './models/FileTypes';
 })
 export class InMemoryDataService implements InMemoryDbService{
     createDb() {
-        const files:Array<File> =[
+        const files:Array<Files> =[
             {   FileName:'ilk_dosya.mp3',
                 FileDescription:'İlk Dosya',
                 FilePath:'/',

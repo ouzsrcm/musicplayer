@@ -4,7 +4,7 @@ import { Injectable } from '@angular/core';
 import { Observable, of} from 'rxjs';
 import { catchError, map, tap} from 'rxjs/operators';
 
-import { File } from './models/File';
+import { Files } from './models/Files';
 
 @Injectable({
   providedIn: 'root'
