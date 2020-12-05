@@ -20,10 +20,10 @@ import {InMemoryDataService} from './in-memory-data.service';
     BrowserModule, 
     IonicModule.forRoot(), 
     AppRoutingModule, 
-    HttpClientModule,
-    HttpClientInMemoryWebApiModule.forRoot(
+    HttpClientModule
+    /*,HttpClientInMemoryWebApiModule.forRoot(
       InMemoryDataService, {dataEncapsulation: false}
-    )
+    )*/
   ],
   providers: [
     StatusBar,

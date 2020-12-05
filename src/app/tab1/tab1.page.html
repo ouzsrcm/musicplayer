@@ -7,19 +7,24 @@
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-card>
-    <ion-card-header>
-      <ion-card-subtitle>
-        Hacı Hasan Efendi Hz.leri
-      </ion-card-subtitle>
-      <ion-card-title>
-        Allaha vesile 1
-      </ion-card-title>
-    </ion-card-header>
-    <ion-button expand="full">
-      <ion-icon name="play"></ion-icon>
-      Dinle
-    </ion-button>
-  </ion-card>
+
+  <ion-list>
+    <ion-item *ngFor="let file of files">
+      <ion-card expand="block">
+        <ion-card-header>
+          <ion-card-subtitle>
+            Hacı Hasan Efendi Hz.leri
+          </ion-card-subtitle>
+          <ion-card-title>
+            {{file.FileName}}
+          </ion-card-title>
+        </ion-card-header>
+        <ion-button expand="full">
+          <ion-icon name="play"></ion-icon>
+          Dinle
+        </ion-button>
+      </ion-card>
+    </ion-item>
+  </ion-list>
   
 </ion-content>
