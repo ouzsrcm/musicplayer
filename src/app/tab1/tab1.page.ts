@@ -9,4 +9,8 @@ export class Tab1Page {
 
   constructor() {}
 
+  filter_(event: any) {
+    console.log(event);
+  }
+
 }

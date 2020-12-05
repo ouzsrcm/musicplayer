@@ -1,17 +1,25 @@
-<ion-header [translucent]="true">
+<ion-header [translucent]="true" no-border>
   <ion-toolbar>
-    <ion-title>
-      Tab 1
-    </ion-title>
+    <ion-title>Sohbetler</ion-title>
   </ion-toolbar>
+  <ion-searchbar animated placeholder="Filtrele"
+  (ionChange)="filter_($event)"></ion-searchbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Tab 1</ion-title>
-    </ion-toolbar>
-  </ion-header>
-
-  <app-explore-container name="Tab 1 page"></app-explore-container>
+  <ion-card>
+    <ion-card-header>
+      <ion-card-subtitle>
+        Hacı Hasan Efendi Hz.leri
+      </ion-card-subtitle>
+      <ion-card-title>
+        Allaha vesile 1
+      </ion-card-title>
+    </ion-card-header>
+    <ion-button expand="full">
+      <ion-icon name="play"></ion-icon>
+      Dinle
+    </ion-button>
+  </ion-card>
+  
 </ion-content>
