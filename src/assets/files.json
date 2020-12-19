@@ -1,24 +1,602 @@
 [
     {
-        "FileName":"Sigaranın Zararları",
-        "FileDescription":"",
-        "FilePath":"",
-        "FileUrl":"https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/31_SigaraninZarari_A.mp3",
-        "FileFormat":"audio",
-        "FileType":"mp3",
-        "Duration":1,
-        "Size":1,
-        "UniqueHash":"f43234a0-40d1-47d0-b05f-b53b3e0806bf"
+        "FileName": "AllahaVesile_A",
+        "FileDescription": "AllahaVesile_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/01_AllahaVesile_A.mp3"
     },
     {
-        "FileName":"Sigaranın Zararları 2",
-        "FileDescription":"",
-        "FilePath":"",
-        "FileUrl":"https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/31_SigaraninZarari_B.mp3",
-        "FileFormat":"audio",
-        "FileType":"mp3",
-        "Duration":1,
-        "Size":1,
-        "UniqueHash":"c5109562-8f51-4fd8-aee5-cbd9f243da21"
+        "FileName": "AllahaVesile_B",
+        "FileDescription": "AllahaVesile_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/01_AllahaVesile_B.mp3"
+    },
+    {
+        "FileName": "AnaBabaHakki_A",
+        "FileDescription": "AnaBabaHakki_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/02_AnaBabaHakki_A.mp3"
+    },
+    {
+        "FileName": "AnaBabaHakki_B",
+        "FileDescription": "AnaBabaHakki_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/02_AnaBabaHakki_B.mp3"
+    },
+    {
+        "FileName": "CenneteVaid_A",
+        "FileDescription": "CenneteVaid_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/03_CenneteVaid_A.mp3"
+    },
+    {
+        "FileName": "CenneteVaid_B",
+        "FileDescription": "CenneteVaid_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/03_CenneteVaid_B.mp3"
+    },
+    {
+        "FileName": "UlemayaSaygi_A",
+        "FileDescription": "UlemayaSaygi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/04_UlemayaSaygi_A.mp3"
+    },
+    {
+        "FileName": "UlemayaSaygi_B",
+        "FileDescription": "UlemayaSaygi_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/04_UlemayaSaygi_B.mp3"
+    },
+    {
+        "FileName": "infakHakkinda_A",
+        "FileDescription": "infakHakkinda_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/05_infakHakkinda_A.mp3"
+    },
+    {
+        "FileName": "infakHakkinda_B",
+        "FileDescription": "infakHakkinda_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/05_infakHakkinda_B.mp3"
+    },
+    {
+        "FileName": "SairVaazlardan_A",
+        "FileDescription": "SairVaazlardan_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/06_SairVaazlardan_A.mp3"
+    },
+    {
+        "FileName": "SairVaazlardan_B",
+        "FileDescription": "SairVaazlardan_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/06_SairVaazlardan_B.mp3"
+    },
+    {
+        "FileName": "ZekatArsinGolgesi_A",
+        "FileDescription": "ZekatArsinGolgesi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/07_ZekatArsinGolgesi_A.mp3"
+    },
+    {
+        "FileName": "ZekatArsinGolgesi_B",
+        "FileDescription": "ZekatArsinGolgesi_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/07_ZekatArsinGolgesi_B.mp3"
+    },
+    {
+        "FileName": "RamazanVaazi_A",
+        "FileDescription": "RamazanVaazi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/08_RamazanVaazi_A.mp3"
+    },
+    {
+        "FileName": "RamazanVaazi_B",
+        "FileDescription": "RamazanVaazi_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/08_RamazanVaazi_B.mp3"
+    },
+    {
+        "FileName": "CumaVaazi_A",
+        "FileDescription": "CumaVaazi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/09_CumaVaazi_A.mp3"
+    },
+    {
+        "FileName": "CumaVaazi_B",
+        "FileDescription": "CumaVaazi_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/09_CumaVaazi_B.mp3"
+    },
+    {
+        "FileName": "KadirGecesi1_A",
+        "FileDescription": "KadirGecesi1_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/10_KadirGecesi1_A.mp3"
+    },
+    {
+        "FileName": "KadirGecesi1_B",
+        "FileDescription": "KadirGecesi1_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/10_KadirGecesi1_B.mp3"
+    },
+    {
+        "FileName": "Zikrinonemi_A",
+        "FileDescription": "Zikrinonemi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/10_Zikrinonemi_A.mp3"
+    },
+    {
+        "FileName": "Zikrinonemi_B",
+        "FileDescription": "Zikrinonemi_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/10_Zikrinonemi_B.mp3"
+    },
+    {
+        "FileName": "KadirGecesi2_A",
+        "FileDescription": "KadirGecesi2_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/11_KadirGecesi2_A.mp3"
+    },
+    {
+        "FileName": "KadirGecesi2_B",
+        "FileDescription": "KadirGecesi2_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/11_KadirGecesi2_B.mp3"
+    },
+    {
+        "FileName": "Zikirvesukur_A",
+        "FileDescription": "Zikirvesukur_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/11_Zikirvesukur_A.mp3"
+    },
+    {
+        "FileName": "Zikirvesukur_B",
+        "FileDescription": "Zikirvesukur_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/11_Zikirvesukur_B.mp3"
+    },
+    {
+        "FileName": "KadirGecesi3_A",
+        "FileDescription": "KadirGecesi3_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/12_KadirGecesi3_A.mp3"
+    },
+    {
+        "FileName": "KadirGecesi3_B",
+        "FileDescription": "KadirGecesi3_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/12_KadirGecesi3_B.mp3"
+    },
+    {
+        "FileName": "ArefeGunuVaazi1_A",
+        "FileDescription": "ArefeGunuVaazi1_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/13_ArefeGunuVaazi1_A.mp3"
+    },
+    {
+        "FileName": "ArefeGunuVaazi1_B",
+        "FileDescription": "ArefeGunuVaazi1_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/13_ArefeGunuVaazi1_B.mp3"
+    },
+    {
+        "FileName": "Sifatarifesi_A",
+        "FileDescription": "Sifatarifesi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/13_Sifatarifesi_A.mp3"
+    },
+    {
+        "FileName": "Sifatarifesi_B",
+        "FileDescription": "Sifatarifesi_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/13_Sifatarifesi_B.mp3"
+    },
+    {
+        "FileName": "ArefeGunuVaazi2_A",
+        "FileDescription": "ArefeGunuVaazi2_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/14_ArefeGunuVaazi2_A.mp3"
+    },
+    {
+        "FileName": "ArefeGunuVaazi2_B",
+        "FileDescription": "ArefeGunuVaazi2_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/14_ArefeGunuVaazi2_B.mp3"
+    },
+    {
+        "FileName": "Kardeslik1_A",
+        "FileDescription": "Kardeslik1_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/14_Kardeslik1_A.mp3"
+    },
+    {
+        "FileName": "Kardeslik1_B",
+        "FileDescription": "Kardeslik1_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/14_Kardeslik1_B.mp3"
+    },
+    {
+        "FileName": "Kardeslik2_A",
+        "FileDescription": "Kardeslik2_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/15_Kardeslik2_A.mp3"
+    },
+    {
+        "FileName": "Kardeslik2_B",
+        "FileDescription": "Kardeslik2_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/15_Kardeslik2_B.mp3"
+    },
+    {
+        "FileName": "SabriCemil_A",
+        "FileDescription": "SabriCemil_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/15_SabriCemil_A.mp3"
+    },
+    {
+        "FileName": "SabriCemil_B",
+        "FileDescription": "SabriCemil_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/15_SabriCemil_B.mp3"
+    },
+    {
+        "FileName": "Ahlakihamide1_A",
+        "FileDescription": "Ahlakihamide1_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/16_Ahlakihamide1_A.mp3"
+    },
+    {
+        "FileName": "Ahlakihamide1_B",
+        "FileDescription": "Ahlakihamide1_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/16_Ahlakihamide1_B.mp3"
+    },
+    {
+        "FileName": "KariKocaHakki_A",
+        "FileDescription": "KariKocaHakki_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/16_KariKocaHakki_A.mp3"
+    },
+    {
+        "FileName": "KariKocaHakki_B",
+        "FileDescription": "KariKocaHakki_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/16_KariKocaHakki_B.mp3"
+    },
+    {
+        "FileName": "Ahlakihamide2_A",
+        "FileDescription": "Ahlakihamide2_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/17_Ahlakihamide2_A.mp3"
+    },
+    {
+        "FileName": "Ahlakihamide2_B",
+        "FileDescription": "Ahlakihamide2_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/17_Ahlakihamide2_B.mp3"
+    },
+    {
+        "FileName": "RamazanBayramiVaazi_A",
+        "FileDescription": "RamazanBayramiVaazi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/17_RamazanBayramiVaazi_A.mp3"
+    },
+    {
+        "FileName": "RamazanBayramiVaazi_B",
+        "FileDescription": "RamazanBayramiVaazi_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/17_RamazanBayramiVaazi_B.mp3"
+    },
+    {
+        "FileName": "AdemAleyhisselam_A",
+        "FileDescription": "AdemAleyhisselam_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/18_AdemAleyhisselam_A.mp3"
+    },
+    {
+        "FileName": "AdemAleyhisselam_B",
+        "FileDescription": "AdemAleyhisselam_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/18_AdemAleyhisselam_B.mp3"
+    },
+    {
+        "FileName": "Ehlidunyadanictinap_A",
+        "FileDescription": "Ehlidunyadanictinap_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/18_Ehlidunyadanictinap_A.mp3"
+    },
+    {
+        "FileName": "Ehlidunyadanictinap_B",
+        "FileDescription": "Ehlidunyadanictinap_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/18_Ehlidunyadanictinap_B.mp3"
+    },
+    {
+        "FileName": "GusulHakkinda_A",
+        "FileDescription": "GusulHakkinda_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/19_GusulHakkinda_A.mp3"
+    },
+    {
+        "FileName": "GusulHakkinda_B",
+        "FileDescription": "GusulHakkinda_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/19_GusulHakkinda_B.mp3"
+    },
+    {
+        "FileName": "MevlanaHalidiBagdadi1_A",
+        "FileDescription": "MevlanaHalidiBagdadi1_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/19_MevlanaHalidiBagdadi1_A.mp3"
+    },
+    {
+        "FileName": "MevlanaHalidiBagdadi1_B",
+        "FileDescription": "MevlanaHalidiBagdadi1_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/19_MevlanaHalidiBagdadi1_B.mp3"
+    },
+    {
+        "FileName": "Lokman_A",
+        "FileDescription": "Lokman_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/2_Lokman_A.mp3"
+    },
+    {
+        "FileName": "Lokman_B",
+        "FileDescription": "Lokman_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/2_Lokman_B.mp3"
+    },
+    {
+        "FileName": "Emanet_A",
+        "FileDescription": "Emanet_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/20_Emanet_A.mp3"
+    },
+    {
+        "FileName": "Emanet_B",
+        "FileDescription": "Emanet_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/20_Emanet_B.mp3"
+    },
+    {
+        "FileName": "MevlanaHalidiBagdadi2_A",
+        "FileDescription": "MevlanaHalidiBagdadi2_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/20_MevlanaHalidiBagdadi2_A.mp3"
+    },
+    {
+        "FileName": "MevlanaHalidiBagdadi2_B",
+        "FileDescription": "MevlanaHalidiBagdadi2_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/20_MevlanaHalidiBagdadi2_B.mp3"
+    },
+    {
+        "FileName": "AbdulhalikiGojdevani_A",
+        "FileDescription": "AbdulhalikiGojdevani_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/21_AbdulhalikiGojdevani_A.mp3"
+    },
+    {
+        "FileName": "AbdulhalikiGojdevani_B",
+        "FileDescription": "AbdulhalikiGojdevani_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/21_AbdulhalikiGojdevani_B.mp3"
+    },
+    {
+        "FileName": "OfkeyiYenmek_A",
+        "FileDescription": "OfkeyiYenmek_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/21_OfkeyiYenmek_A.mp3"
+    },
+    {
+        "FileName": "OfkeyiYenmek_B",
+        "FileDescription": "OfkeyiYenmek_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/21_OfkeyiYenmek_B.mp3"
+    },
+    {
+        "FileName": "EnsarVeMuhacirin_A",
+        "FileDescription": "EnsarVeMuhacirin_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/22_EnsarVeMuhacirin_A.mp3"
+    },
+    {
+        "FileName": "EnsarVeMuhacirin_B",
+        "FileDescription": "EnsarVeMuhacirin_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/22_EnsarVeMuhacirin_B.mp3"
+    },
+    {
+        "FileName": "imanhakkinda_A",
+        "FileDescription": "imanhakkinda_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/22_imanhakkinda_A.mp3"
+    },
+    {
+        "FileName": "imanhakkinda_B",
+        "FileDescription": "imanhakkinda_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/22_imanhakkinda_B.mp3"
+    },
+    {
+        "FileName": "BilaliHabesi_A",
+        "FileDescription": "BilaliHabesi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/23_BilaliHabesi_A.mp3"
+    },
+    {
+        "FileName": "BilaliHabesi_B",
+        "FileDescription": "BilaliHabesi_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/23_BilaliHabesi_B.mp3"
+    },
+    {
+        "FileName": "KonyadaMiracgecesi_A",
+        "FileDescription": "KonyadaMiracgecesi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/23_KonyadaMiracgecesi_A.mp3"
+    },
+    {
+        "FileName": "KonyadaMiracgecesi_B",
+        "FileDescription": "KonyadaMiracgecesi_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/23_KonyadaMiracgecesi_B.mp3"
+    },
+    {
+        "FileName": "KonyadaSohbet1_A",
+        "FileDescription": "KonyadaSohbet1_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/24_KonyadaSohbet1_A.mp3"
+    },
+    {
+        "FileName": "KonyadaSohbet1_B",
+        "FileDescription": "KonyadaSohbet1_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/24_KonyadaSohbet1_B.mp3"
+    },
+    {
+        "FileName": "SureiBakaradan_A",
+        "FileDescription": "SureiBakaradan_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/24_SureiBakaradan_A.mp3"
+    },
+    {
+        "FileName": "SureiBakaradan_B",
+        "FileDescription": "SureiBakaradan_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/24_SureiBakaradan_B.mp3"
+    },
+    {
+        "FileName": "KonyadaSohbet2_A",
+        "FileDescription": "KonyadaSohbet2_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/25_KonyadaSohbet2_A.mp3"
+    },
+    {
+        "FileName": "KonyadaSohbet2_B",
+        "FileDescription": "KonyadaSohbet2_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/25_KonyadaSohbet2_B.mp3"
+    },
+    {
+        "FileName": "KonyadaSohbetveilahiler3_A",
+        "FileDescription": "KonyadaSohbetveilahiler3_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/26_KonyadaSohbetveilahiler3_A.mp3"
+    },
+    {
+        "FileName": "KonyadaSohbetveilahiler3_B",
+        "FileDescription": "KonyadaSohbetveilahiler3_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/26_KonyadaSohbetveilahiler3_B.mp3"
+    },
+    {
+        "FileName": "KonyadaSohbetveKuran4_A",
+        "FileDescription": "KonyadaSohbetveKuran4_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/27_KonyadaSohbetveKuran4_A.mp3"
+    },
+    {
+        "FileName": "KonyadaSohbetveKuran4_B",
+        "FileDescription": "KonyadaSohbetveKuran4_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/27_KonyadaSohbetveKuran4_B.mp3"
+    },
+    {
+        "FileName": "KayseriveKonyalilara_A",
+        "FileDescription": "KayseriveKonyalilara_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/28_KayseriveKonyalilara_A.mp3"
+    },
+    {
+        "FileName": "KayseriveKonyalilara_B",
+        "FileDescription": "KayseriveKonyalilara_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/28_KayseriveKonyalilara_B.mp3"
+    },
+    {
+        "FileName": "SamiEfendimizinYahyaliyaGelisi_A",
+        "FileDescription": "SamiEfendimizinYahyaliyaGelisi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/29_SamiEfendimizinYahyaliyaGelisi_A.mp3"
+    },
+    {
+        "FileName": "SamiEfendimizinYahyaliyaGelisi_B",
+        "FileDescription": "SamiEfendimizinYahyaliyaGelisi_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/29_SamiEfendimizinYahyaliyaGelisi_B.mp3"
+    },
+    {
+        "FileName": "CenneteGiren10Hayvan_A",
+        "FileDescription": "CenneteGiren10Hayvan_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/30_CenneteGiren10Hayvan_A.mp3"
+    },
+    {
+        "FileName": "CenneteGiren10Hayvan_B",
+        "FileDescription": "CenneteGiren10Hayvan_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/30_CenneteGiren10Hayvan_B.mp3"
+    },
+    {
+        "FileName": "SigaraninZarari_A",
+        "FileDescription": "SigaraninZarari_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/31_SigaraninZarari_A.mp3"
+    },
+    {
+        "FileName": "SigaraninZarari_B",
+        "FileDescription": "SigaraninZarari_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/31_SigaraninZarari_B.mp3"
+    },
+    {
+        "FileName": "HanimlaraSohbet_A",
+        "FileDescription": "HanimlaraSohbet_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/32_HanimlaraSohbet_A.mp3"
+    },
+    {
+        "FileName": "HanimlaraSohbet_B",
+        "FileDescription": "HanimlaraSohbet_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/32_HanimlaraSohbet_B.mp3"
+    },
+    {
+        "FileName": "RabiatulAdaviyye1_A",
+        "FileDescription": "RabiatulAdaviyye1_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/33_RabiatulAdaviyye1_A.mp3"
+    },
+    {
+        "FileName": "RabiatulAdaviyye1_B",
+        "FileDescription": "RabiatulAdaviyye1_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/33_RabiatulAdaviyye1_B.mp3"
+    },
+    {
+        "FileName": "RabiatulAdaviyye2_A",
+        "FileDescription": "RabiatulAdaviyye2_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/34_RabiatulAdaviyye2_A.mp3"
+    },
+    {
+        "FileName": "RabiatulAdaviyye2_B",
+        "FileDescription": "RabiatulAdaviyye2_B",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/34_RabiatulAdaviyye2_B.mp3"
+    },
+    {
+        "FileName": "EmanetullahinVerilisi_A",
+        "FileDescription": "EmanetullahinVerilisi_A",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/35_EmanetullahinVerilisi_A.mp3"
+    },
+    {
+        "FileName": "1980 yılı Arefe vaazı(H.Hasan Ef.)_KALEMDAR",
+        "FileDescription": "1980 yılı Arefe vaazı(H.Hasan Ef.)_KALEMDAR",
+        "CategoryId": "0",
+        "FileUrl": "https://ia800804.us.archive.org/35/items/yahyalili-haci-hasan-efendi-hazretleri-sohbetler/1980 yılı Arefe vaazı(H.Hasan Ef.)_KALEMDAR.mp3"
     }
 ]
