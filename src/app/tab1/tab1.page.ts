@@ -1,5 +1,4 @@
 import { Component, NgModule, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
 import { DataService } from '../dataservices/data.service';
 import { Files } from '../models/Files';
 @Component({
@@ -11,6 +10,7 @@ export class Tab1Page implements OnInit {
   
   public searchTerm: string = "";
   Files:Files[] = [];
+  activeFile:Files =null;
 
   constructor(private dataService: DataService) {}
 
@@ -36,5 +36,29 @@ export class Tab1Page implements OnInit {
         return (item.FileName.toLowerCase().indexOf(event.target.value) >-1);
       });
     });
+  }
+
+  start(file: Files){
+    // this.player = new Howl()
+  }
+
+  togglePlayer(pause){
+
+  }
+
+  next(){
+
+  }
+
+  prev(){
+
+  }
+
+  seek(){
+
+  }
+
+  updateProgress(){
+
   }
 }
