@@ -10,24 +10,31 @@ import { Files } from '../models/Files';
 export class Tab1Page implements OnInit {
   
   public searchTerm: string = "";
-  audioFiles:Files[] = [];
-  filteredList:Files[] = [];
+  Files:Files[] = [];
 
   constructor(private dataService: DataService) {}
 
   ngOnInit(){
+    this.LoadFiles();
+  }
+
+  LoadFiles(){
     this.dataService.files().subscribe(files=>{
-      this.filteredList = this.audioFiles = files;
+      this.Files = files;
     });
-    
   }
 
   filter_(event: any) {
-    //console.log(event);
-    var searchTerm = searchTerm.toLowerCase();
-    this.filteredList = this.audioFiles.filter(item => 
-      {
-        return item.FileName.toLowerCase().indexOf(searchTerm)>-1
+    if (event.target.value.length < 1)
+    {
+      this.LoadFiles();
+      return;
+    }
+
+    requestAnimationFrame(() => {
+      this.Files = this.Files.filter((item) => {
+        return (item.FileName.toLowerCase().indexOf(event.target.value) >-1);
       });
+    });
   }
 }

@@ -3,14 +3,13 @@
     <ion-title>Sohbetler</ion-title>
   </ion-toolbar>
   <ion-searchbar animated placeholder="Filtrele"
-  [(ngModel)]="searchTerm"
   (ionChange)="filter_($event)"></ion-searchbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
 
   <ion-list>
-    <ion-item *ngFor="let file of filteredList">
+    <ion-item *ngFor="let file of Files">
       <ion-card expand="block">
         <ion-card-header>
           <ion-card-subtitle>
