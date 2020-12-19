@@ -2,7 +2,7 @@ import { Component, OnInit, ViewChild } from '@angular/core';
 import { DataService } from '../dataservices/data.service';
 import { Files } from '../models/Files';
 import { Howl } from 'howler';
-import { IonRange } from '@ionic/angular';
+import { IonRange, PopoverController } from '@ionic/angular';
 
 @Component({
   selector: 'app-tab1',
@@ -20,7 +20,15 @@ export class Tab1Page implements OnInit {
   activeFile:Files = null;
   @ViewChild('range', {static:false})range: IonRange;
 
-  constructor(private dataService: DataService) {}
+  constructor(private dataService: DataService, public popoverController: PopoverController) {
+
+  }
+
+  async popover(event: any){
+    // const popover = await this.popoverController.create({
+    //   component: PopoverComponent
+    // });
+  }
 
   ngOnInit(){
     this.LoadFiles();
