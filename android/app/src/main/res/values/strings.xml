@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HaciHasanEfendiHz</string>
+    <string name="title_activity_main">HaciHasanEfendiHz</string>
+    <string name="package_name">io.ionic.ouzsrcm</string>
+    <string name="custom_url_scheme">io.ionic.ouzsrcm</string>
+</resources>
